@@ -18,3 +18,9 @@ This project is a practical example of how to integrate web search capabilities 
 - **LangChain**
 - **Server.dev**
 - **Google Colab (as a runtime environment)**
+
+## 💡 USE CASES
+
+- **Queries requiring recent or real-time information**.
+- **Demonstrations of LLM agents with external tools**.
+- **Educational projects or integration tests with external APIs**.
