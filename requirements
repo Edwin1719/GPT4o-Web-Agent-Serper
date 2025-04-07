@@ -1,0 +1,6 @@
+dotenv
+streamlit
+sqlalchemy
+langchain
+langchain_community
+st_social_media_links
